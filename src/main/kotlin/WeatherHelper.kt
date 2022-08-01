@@ -8,7 +8,7 @@ import java.net.MalformedURLException
 import java.net.URL
 
 // Get your api key from https://home.openweathermap.org/api_keys
-const val API_KEY = "3d5397ff02ae6211fe2018cc670bf5ca"
+const val API_KEY = "TOKENHERE"
 
 fun getTempByLocation(location: String): Double {
     try {
